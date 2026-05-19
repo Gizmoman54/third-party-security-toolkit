@@ -1,5 +1,5 @@
-third-party-security-toolkit
-An engineering-led third‑party security toolkit designed for regulated financial services environments. This repo provides practical templates and implementation patterns to assess supplier risk, onboard vendors securely, and maintain ongoing assurance—without turning the program into paperwork.
+Vendor Third-party-security-toolkit
+An engineering-led third‑party security toolkit designed for regulated environments. This repo provides practical templates and implementation patterns to assess supplier risk, onboard vendors securely, and maintain ongoing assurance—without turning the program into paperwork.
 
 Who it’s for
 Security Engineering, Security Architecture, Technology Risk, Procurement, and IT teams building or improving a third‑party security program.
