@@ -29,4 +29,6 @@ Notes / disclaimer
 This repository uses synthetic examples and is not affiliated with any employer or client. Control mappings are illustrative and should be adapted to your organisation’s risk appetite, regulatory obligations, and technical architecture.
 
 Start here
-Artifact Map (Start Here)
+Artifact Map (Start Here) 
+third-party-security-toolkit/Artifact Map (Start Here).docx
+
